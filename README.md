@@ -1,5 +1,5 @@
 # CMash production code via Rust
-Develop production code for CMash, and apply it to metagenomic analyses.
+Develop production code for CMash, and apply it to metagenomic analyses.  
 Contact: Shaopeng Liu (sml6467@psu.edu)
 
 ### Resources:
