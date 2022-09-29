@@ -1,0 +1,19 @@
+name: temp
+channels:
+  - bioconda
+  - conda-forge
+  - anaconda
+dependencies:
+  - bioconda::sourmash
+  - python=3.7
+  - seaborn
+  - bioconda::kmc
+  - bioconda::sra-tools
+  - bioconda::minimap2
+  - fastqc
+  - conda-forge::marisa-trie
+  - conda-forge::hydra
+  - conda-forge::biopython
+  - bioconda::khmer
+  - anaconda::h5py
+

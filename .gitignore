@@ -1,0 +1,13 @@
+# ignore unnecessary resources to make this repo light
+
+# DS store
+.DS_Store
+
+# src folder
+src/conda_env/*
+src/git_repo/*
+
+
+### output folder
+output/*
+

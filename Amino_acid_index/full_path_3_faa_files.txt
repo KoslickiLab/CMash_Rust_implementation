@@ -1,0 +1,3 @@
+/Users/shaopeng/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/Github/CMash_Rust_implementation/Amino_acid_index/fivek_record.faa
+/Users/shaopeng/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/Github/CMash_Rust_implementation/Amino_acid_index/top200.faa
+/Users/shaopeng/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/Github/CMash_Rust_implementation/Amino_acid_index/top3.faa
