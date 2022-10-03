@@ -11,3 +11,8 @@ src/git_repo/*
 ### output folder
 output/*
 
+### some test data
+./Amino_acid_index/full_path_*
+
+
+
