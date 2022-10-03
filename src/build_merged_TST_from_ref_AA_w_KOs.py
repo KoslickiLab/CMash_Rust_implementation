@@ -385,10 +385,6 @@ if __name__ == '__main__':
 	# print status
 	out_TST_obj.print_stats()
 	
-	# test run
-	test_file = "/Users/shaopeng/Library/CloudStorage/OneDrive-ThePennsylvaniaStateUniversity/Github/CMash_Rust_implementation/Amino_acid_index/fivek_record.faa"
-	out_TST_obj.stream_a_query_file(test_file, type="fasta", out_name="test_scan.csv")
-	
 	# save the object
 	temp_start = time.time()
 	print("Saving the object to pickle file")
